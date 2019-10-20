@@ -20,7 +20,7 @@ Username: basitmir123@gmail.com
 Password: 12345678
 
 
-After logging in, there will be two screens 
+After logging in, there will be two screens as follows in the tab navigation at the bottom:-
 
 1. Vendor Dashboard
 2. Partner Page
