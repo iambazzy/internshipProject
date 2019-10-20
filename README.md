@@ -22,11 +22,11 @@ Password: 12345678
 
 After logging in, there will be two screens as follows in the tab navigation at the bottom:-
 
-1. Vendor Dashboard
-2. Partner Page
+1. Vendor Screen.
+2. Partner Screen.
 
 
-On Partner Page There is a Form That Needs To Be Filled Completely To succesfully Work, otherwise it will show error.
+On Partner Screen There is a Form That Needs To Be Filled (As per the requirements in the PDF provided by Zilwer Technologies) Completely To succesfully Work, otherwise it will show error.
 On succesfull submission it will show a success message "WE WILL CONTACT YOU SOON" andlogout button on header will take you back to login page where you need to login again if you want to see the partner page.
 
 
