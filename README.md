@@ -1,4 +1,4 @@
-# Internship Project
+# Internship Project For Zilwer Technologies
 
 The app is build using react native intended to be an example only. All the data is hard coded inside the application.
 
