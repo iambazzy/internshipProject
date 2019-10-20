@@ -7,7 +7,7 @@ To start Using The App In DEV mode
 1. Clone the repo.
 2. Make sure react-native cli is installed on the machine globally.
 3. In project directory run "npm i"
-4. I use physical device to see my application. i will suggest you to do the same. Just install ADB and add it in the env variables of the computer to make it availiable globally in any directory.
+4. I use physical device to see my application. i will suggest you to do the same. Just install ADB and add it in the env variables of the computer to make it available globally in any directory.
 5. Then hit react-native run-android (Don't forget to run the metro bundler in the background).
 6. If the build fails after react-native run-android then run react-native start.
 
